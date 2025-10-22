@@ -5,7 +5,7 @@ A comprehensive smart parking solution that reduces urban traffic congestion and
 
 A comprehensive smart parking solution that reduces urban traffic congestion and emissions by optimizing parking space utilization through real-time tracking, booking, and intelligent navigation.
 
-## Sustainable Development Impact
+## Sustainable Development Impact 
 
 **Primary SDG: 11 - Sustainable Cities and Communities**
 - **Target 11.2:** Providing access to sustainable transport systems
