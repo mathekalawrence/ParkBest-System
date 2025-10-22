@@ -37,7 +37,7 @@ A comprehensive smart parking solution that reduces urban traffic congestion and
 - **Dynamic Pricing Control** - Adjust pricing based on demand
 - **Reports & Insights** - Environmental impact and usage analytics
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - **Mobile App:** React Native with JavaScript
